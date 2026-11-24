@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.angular/
+bin/
+obj/
+*.user
+.vs/
+.idea/
+.env
+*.log
+backend/src/Portfolio.Api/storage/
+backend/src/Portfolio.Api/appsettings.Local.json

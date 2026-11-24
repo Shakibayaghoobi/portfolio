@@ -1,0 +1,11 @@
+# Local SQL Server for development: docker compose up -d
+services:
+  mssql:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: "Your_strong_Passw0rd"
+    ports: ["1433:1433"]
+    volumes: [mssql-data:/var/opt/mssql]
+volumes:
+  mssql-data:

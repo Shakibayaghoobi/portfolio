@@ -1,0 +1,16 @@
+// Design tokens taken from the reference design; the accent colour is overridden at runtime from site settings.
+:root {
+  --bg: #0c0b0a;
+  --surface: #151311;
+  --ink: #ece7de;
+  --mute: #a8a195;
+  --line: rgba(236, 231, 222, 0.16);
+  --line2: rgba(236, 231, 222, 0.3);
+  --lit: #f0c27a;
+  --paper: #ece7de;
+  --paper-ink: #14110e;
+}
+
+// Put the licensed brand font first once it is added (see shared-assets/fonts/README.md).
+$font-latin: 'Barlow Semi Condensed', 'DIN Alternate', system-ui, sans-serif;
+$font-fa: 'Vazirmatn', Tahoma, sans-serif;
