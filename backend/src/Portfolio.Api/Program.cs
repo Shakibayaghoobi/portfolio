@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Portfolio.Api.Auth;
 using Portfolio.Infrastructure;
+using Portfolio.Infrastructure.Seed;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -37,6 +38,7 @@ if (app.Environment.IsDevelopment())
     using var scope = app.Services.CreateScope();
     await scope.ServiceProvider.GetRequiredService<PortfolioDbContext>().Database.MigrateAsync();
     await AdminSeeder.SeedAsync(scope.ServiceProvider, app.Configuration, app.Logger);
+    await ContentSeeder.SeedAsync(scope.ServiceProvider.GetRequiredService<PortfolioDbContext>(), app.Logger);
 }
 
 app.UseResponseCompression();

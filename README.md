@@ -53,4 +53,4 @@ dotnet ef database update -p src/Portfolio.Infrastructure -s src/Portfolio.Api
 Fonts are self-hosted from `frontend/shared-assets/fonts` (Barlow Semi Condensed and Vazirmatn as open-source stand-ins). To use the brand font, add its woff2 files there and follow `frontend/shared-assets/fonts/README.md`. The logo is `frontend/shared-assets/brand/logo.svg` (cropped from `Logo.pdf`; original kept in `docs/`).
 
 ## Status
-Foundation only: solution layout, data model + initial migration, admin JWT login, SSR client shell with SEO service, admin login shell. Features follow the roadmap in the guide.
+Phases 0 and 1 of the roadmap are done. Phase 1 added: an idempotent content seeder (reference `content.json`, run automatically in Development; images are placeholders until Phase 2), public endpoints (`/api/public/content|site|projects|projects/{slug}|cv`), admin endpoints (`/api/admin/content|site|sections`), a public home page filled from the API, and admin editors for Texts, Site settings and Page sections. Backend tests use SQLite in memory, so they need no SQL Server.

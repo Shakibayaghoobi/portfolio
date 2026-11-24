@@ -1,0 +1,1134 @@
+{
+ "version": 1,
+ "site": {
+  "name": {
+   "en": "Nima Adlimoghadam",
+   "fa": "نیما عدلی‌مقدم"
+  },
+  "first": {
+   "en": "Nima",
+   "fa": "نیما"
+  },
+  "last": {
+   "en": "Adlimoghadam",
+   "fa": "عدلی‌مقدم"
+  },
+  "accent": "#f0c27a",
+  "portrait": "5bc554bb3669b34156a3c95228899585",
+  "hero": "189f9695b4407ba5bb03c26734ee843e",
+  "dayImg": "7aa042fe044fa615f56613f4225583cd",
+  "nightImg": "9cf0e4cf154cd179cedac7429aec51c3",
+  "film": "702fc3b63d0622e3d8656b8ebaf26102",
+  "poster": "189f9695b4407ba5bb03c26734ee843e",
+  "logo": "f7f15aafe1d57a30a876a8ed9edf8a83"
+ },
+ "ui": {
+  "nav.works": {
+   "en": "Works",
+   "fa": "نمونه‌کارها"
+  },
+  "nav.studies": {
+   "en": "Studies",
+   "fa": "طرح‌ها"
+  },
+  "nav.practice": {
+   "en": "Practice",
+   "fa": "تخصص‌ها"
+  },
+  "nav.path": {
+   "en": "Path",
+   "fa": "مسیر"
+  },
+  "nav.contact": {
+   "en": "Contact",
+   "fa": "تماس"
+  },
+  "loc": {
+   "en": "36°18′N 59°36′E · Mashhad",
+   "fa": "۳۶°۱۸′ شمالی ۵۹°۳۶′ شرقی · مشهد"
+  },
+  "hero.role": {
+   "en": "Architect / Designer — Mashhad, Iran",
+   "fa": "معمار و طراح — مشهد، ایران"
+  },
+  "hero.tag": {
+   "en": "Façades that hold the light. Interiors that hold the silence.",
+   "fa": "نمایی که نور را در آغوش می‌گیرد. فضایی که سکوت را."
+  },
+  "hero.cta1": {
+   "en": "Selected works",
+   "fa": "نمونه‌کارهای منتخب"
+  },
+  "hero.cta2": {
+   "en": "Start a project",
+   "fa": "شروع یک پروژه"
+  },
+  "hero.cap": {
+   "en": "Fig. 01 — Arch Tower, night",
+   "fa": "تصویر ۱ — برج قوس، شب"
+  },
+  "hero.lit": {
+   "en": "Lit",
+   "fa": "روشن"
+  },
+  "strip.1k": {
+   "en": "In practice",
+   "fa": "فعالیت حرفه‌ای"
+  },
+  "strip.1v": {
+   "en": "Since 2017",
+   "fa": "از ۱۳۹۶"
+  },
+  "strip.2k": {
+   "en": "Competitions",
+   "fa": "مسابقات"
+  },
+  "strip.2v": {
+   "en": "Five first prizes",
+   "fa": "پنج رتبه‌ی اول"
+  },
+  "strip.3k": {
+   "en": "Range",
+   "fa": "دامنه‌ی کار"
+  },
+  "strip.3v": {
+   "en": "Façade · Interior · Villa",
+   "fa": "نما · داخلی · ویلا"
+  },
+  "strip.4k": {
+   "en": "Currently",
+   "fa": "اکنون"
+  },
+  "strip.4v": {
+   "en": "Design Studio Manager",
+   "fa": "مدیر استودیوی طراحی"
+  },
+  "about.k": {
+   "en": "Approach",
+   "fa": "رویکرد"
+  },
+  "about.h": {
+   "en": "A building is read twice: by day as *mass*, by night as a single *line of light*. I design for both readings.",
+   "fa": "یک ساختمان دو بار خوانده می‌شود: روز، به‌عنوان *حجم*؛ شب، به‌عنوان یک *خط نور*. من برای هر دو خوانش طراحی می‌کنم."
+  },
+  "about.p1": {
+   "en": "I'm an architect and designer in Mashhad. I studied architecture at Islamic Azad University in Tehran, then completed a master's at Khorasan Non-Profit University. Since 2017 I've worked on everything from residential façades and villas to cafés, restaurants and a prayer room.",
+   "fa": "من معمار و طراحی اهل مشهد هستم. معماری را در دانشگاه آزاد اسلامی تهران خواندم و کارشناسی ارشد را در دانشگاه غیرانتفاعی خراسان گذراندم. از سال ۱۳۹۶ روی پروژه‌هایی از نمای ساختمان‌های مسکونی و ویلا تا کافه، رستوران و یک نمازخانه کار کرده‌ام."
+  },
+  "about.p2": {
+   "en": "I follow a project from concept and 3D storytelling through detail drawings to the building site, because the idea only survives if someone keeps hold of it all the way to execution.",
+   "fa": "پروژه را از ایده و روایت سه‌بعدی تا نقشه‌های اجرایی و کارگاه همراهی می‌کنم؛ چون ایده فقط وقتی زنده می‌ماند که کسی تا لحظه‌ی اجرا مراقبش باشد."
+  },
+  "about.fig": {
+   "en": "Fig. 02 — Read twice",
+   "fa": "تصویر ۲ — دو بار خواندن"
+  },
+  "about.day": {
+   "en": "Day",
+   "fa": "روز"
+  },
+  "about.night": {
+   "en": "Night",
+   "fa": "شب"
+  },
+  "works.k": {
+   "en": "01 — Drawing index",
+   "fa": "۰۱ — فهرست نقشه‌ها"
+  },
+  "works.h": {
+   "en": "Selected *works*",
+   "fa": "نمونه‌کارهای *منتخب*"
+  },
+  "works.p": {
+   "en": "Sheets from gateways and façades to interiors. Choose a sheet to open it.",
+   "fa": "برگ‌هایی از دروازه و نما تا فضاهای داخلی. یک برگ را برای مشاهده انتخاب کنید."
+  },
+  "works.prev": {
+   "en": "Previous image",
+   "fa": "تصویر قبلی"
+  },
+  "works.next": {
+   "en": "Next image",
+   "fa": "تصویر بعدی"
+  },
+  "works.slider": {
+   "en": "Render to sketch",
+   "fa": "از رندر تا اسکیس"
+  },
+  "works.render": {
+   "en": "Render",
+   "fa": "رندر"
+  },
+  "works.sketch": {
+   "en": "Sketch",
+   "fa": "اسکیس"
+  },
+  "works.show": {
+   "en": "Show image",
+   "fa": "نمایش تصویر"
+  },
+  "studies.k": {
+   "en": "02 — Studies",
+   "fa": "۰۲ — طرح‌ها"
+  },
+  "studies.h": {
+   "en": "Lines before *light*",
+   "fa": "خط، پیش از *نور*"
+  },
+  "studies.p": {
+   "en": "Schematic line studies of three recurring forms: the arch, the shell and the niche. Not to scale.",
+   "fa": "اسکیس‌های خطی از سه فرم تکرارشونده: قوس، پوسته و طاقچه. بدون مقیاس."
+  },
+  "studies.c1": {
+   "en": "Fig. 03 — Elevation, Arch Tower",
+   "fa": "تصویر ۳ — نما، برج قوس"
+  },
+  "studies.c2": {
+   "en": "Fig. 04 — Profile, Shell Gateway",
+   "fa": "تصویر ۴ — نیمرخ، دروازه‌ی صدفی"
+  },
+  "studies.c3": {
+   "en": "Fig. 05 — Elevation, Prayer niche",
+   "fa": "تصویر ۵ — نما، محراب نمازخانه"
+  },
+  "practice.k": {
+   "en": "03 — Practice",
+   "fa": "۰۳ — تخصص‌ها"
+  },
+  "practice.h": {
+   "en": "From first line<br>to *last bolt*",
+   "fa": "از اولین خط<br>تا *آخرین پیچ*"
+  },
+  "practice.p": {
+   "en": "One designer across the whole workflow, from the sketch to the site visit.",
+   "fa": "یک طراح در تمام مسیر، از اسکیس تا بازدید کارگاه."
+  },
+  "tool.k": {
+   "en": "Toolkit",
+   "fa": "ابزارها"
+  },
+  "tool.scale": {
+   "en": "Proficiency, 0–100",
+   "fa": "سطح مهارت، ۰ تا ۱۰۰"
+  },
+  "lang.k": {
+   "en": "Languages",
+   "fa": "زبان‌ها"
+  },
+  "film.k": {
+   "en": "04 — Film",
+   "fa": "۰۴ — فیلم"
+  },
+  "film.h": {
+   "en": "Sketch to *render*",
+   "fa": "از اسکیس تا *رندر*"
+  },
+  "film.p": {
+   "en": "A short film: the line is drawn, then the building appears.",
+   "fa": "فیلمی کوتاه: خط کشیده می‌شود، سپس ساختمان پدیدار می‌شود."
+  },
+  "rec.k": {
+   "en": "05 — Recognition",
+   "fa": "۰۵ — افتخارات"
+  },
+  "rec.h": {
+   "en": "First *place*, five times",
+   "fa": "پنج بار رتبه‌ی *اول*"
+  },
+  "rec.research": {
+   "en": "Research",
+   "fa": "پژوهش"
+  },
+  "path.k": {
+   "en": "06 — Path",
+   "fa": "۰۶ — مسیر"
+  },
+  "path.h": {
+   "en": "Studios, *sites*, schools",
+   "fa": "استودیوها، *کارگاه‌ها*، دانشگاه‌ها"
+  },
+  "path.now": {
+   "en": "Now",
+   "fa": "اکنون"
+  },
+  "contact.k": {
+   "en": "07 — Contact",
+   "fa": "۰۷ — تماس"
+  },
+  "contact.h": {
+   "en": "Let's draw *something* that lasts.",
+   "fa": "بیایید چیزی بکشیم که *ماندگار* باشد."
+  },
+  "contact.phone": {
+   "en": "Phone",
+   "fa": "تلفن"
+  },
+  "contact.ig": {
+   "en": "Instagram",
+   "fa": "اینستاگرام"
+  },
+  "contact.studio": {
+   "en": "Studio",
+   "fa": "استودیو"
+  },
+  "tb.by": {
+   "en": "Drawn by",
+   "fa": "ترسیم"
+  },
+  "tb.sheet": {
+   "en": "Sheet",
+   "fa": "برگ"
+  },
+  "tb.scale": {
+   "en": "Scale",
+   "fa": "مقیاس"
+  },
+  "tb.issue": {
+   "en": "Issue",
+   "fa": "ویرایش"
+  },
+  "tb.byv": {
+   "en": "N. Adlimoghadam",
+   "fa": "ن. عدلی‌مقدم"
+  },
+  "tb.sheetv": {
+   "en": "Portfolio",
+   "fa": "نمونه‌کار"
+  },
+  "tb.scalev": {
+   "en": "1 : 1",
+   "fa": "۱ : ۱"
+  },
+  "tb.issuev": {
+   "en": "2026",
+   "fa": "۱۴۰۵"
+  },
+  "contact.email": {
+   "en": "Email",
+   "fa": "ایمیل"
+  },
+  "form.title": {
+   "en": "Tell me about the project",
+   "fa": "درباره‌ی پروژه برایم بنویسید"
+  },
+  "form.name": {
+   "en": "Your name",
+   "fa": "نام شما"
+  },
+  "form.email": {
+   "en": "Email",
+   "fa": "ایمیل"
+  },
+  "form.type": {
+   "en": "Project type",
+   "fa": "نوع پروژه"
+  },
+  "form.msg": {
+   "en": "Message",
+   "fa": "پیام"
+  },
+  "form.submit": {
+   "en": "Write the email",
+   "fa": "نوشتن ایمیل"
+  },
+  "form.err.name": {
+   "en": "Please add your name.",
+   "fa": "لطفاً نام خود را وارد کنید."
+  },
+  "form.err.email": {
+   "en": "Please enter a valid email address.",
+   "fa": "لطفاً یک نشانی ایمیل معتبر وارد کنید."
+  },
+  "form.err.msg": {
+   "en": "Please write a short message.",
+   "fa": "لطفاً یک پیام کوتاه بنویسید."
+  },
+  "form.after": {
+   "en": "Your email app should open with this message ready to send. If nothing opens, copy the message and send it to the address on this page. Nothing has been sent yet.",
+   "fa": "برنامه‌ی ایمیل شما باید با این پیام آماده‌ی ارسال باز شود. اگر چیزی باز نشد، پیام را کپی کنید و به نشانی ایمیل همین صفحه بفرستید. هنوز چیزی ارسال نشده است."
+  },
+  "form.open": {
+   "en": "Open email app",
+   "fa": "باز کردن برنامه‌ی ایمیل"
+  },
+  "form.copy": {
+   "en": "Copy message",
+   "fa": "کپی پیام"
+  },
+  "form.copied": {
+   "en": "Copied",
+   "fa": "کپی شد"
+  },
+  "form.subject": {
+   "en": "Portfolio enquiry — {type}",
+   "fa": "درخواست از طریق نمونه‌کار — {type}"
+  },
+  "admin.edit": {
+   "en": "Edit site",
+   "fa": "ویرایش سایت"
+  }
+ },
+ "projects": [
+  {
+   "id": "arch-tower",
+   "no": "A-01",
+   "title": {
+    "en": "Arch Tower",
+    "fa": "برج قوس"
+   },
+   "type": {
+    "en": "Residential façade",
+    "fa": "نمای مسکونی"
+   },
+   "note": {
+    "en": "Pale rounded frames hold the windows and green terraces; after dark a single LED line traces the arch from gate to roof.",
+    "fa": "قاب‌های گرد و روشن، پنجره‌ها و تراس‌های سبز را در آغوش می‌گیرند؛ پس از تاریکی، یک خط LED قوس را از ورودی تا بام دنبال می‌کند."
+   },
+   "images": [
+    {
+     "src": "189f9695b4407ba5bb03c26734ee843e",
+     "sketch": "e7b2c70a2715af3a2f1dc8969040f5ae",
+     "portrait": true
+    },
+    {
+     "src": "7aa042fe044fa615f56613f4225583cd",
+     "sketch": "dccec1c9d09574a988a9323a75860822",
+     "portrait": true
+    },
+    {
+     "src": "9cf0e4cf154cd179cedac7429aec51c3",
+     "sketch": "2b08925425a872172b1d08f9398bd199",
+     "portrait": true
+    },
+    {
+     "src": "5316c95568cfd6560ee1a7a642b33f32",
+     "sketch": "ea329619873f1d20b66aa782d19dc2b4",
+     "portrait": true
+    }
+   ]
+  },
+  {
+   "id": "shell-gateway",
+   "no": "A-02",
+   "title": {
+    "en": "Shell Gateway",
+    "fa": "دروازه‌ی صدفی"
+   },
+   "type": {
+    "en": "Pavilion / gate",
+    "fa": "غرفه / دروازه"
+   },
+   "note": {
+    "en": "A ribbed white shell folds over the entrance like a sheet of paper, structure and ornament in one gesture.",
+    "fa": "یک پوسته‌ی سفید و آجدار مثل ورقی کاغذ بر ورودی تا می‌خورد؛ سازه و تزئین در یک حرکت."
+   },
+   "images": [
+    {
+     "src": "8934b4940727ed2fc401e553080558ac",
+     "sketch": "1ffebf15dea6ec7135858c0d03cfa3a3",
+     "portrait": false
+    },
+    {
+     "src": "94337569446030035cac9c01f0b76f3a",
+     "sketch": "857629ac1b7d2982d0d920d498b914dd",
+     "portrait": false
+    },
+    {
+     "src": "e4e050f6eabd50e492cd76289ad127bf",
+     "sketch": "1bb082dd736f4fd6adc5a44a98db8a84",
+     "portrait": false
+    }
+   ]
+  },
+  {
+   "id": "nastaran",
+   "no": "A-03",
+   "title": {
+    "en": "Nastaran",
+    "fa": "نستران"
+   },
+   "type": {
+    "en": "Residential façade",
+    "fa": "نمای مسکونی"
+   },
+   "note": {
+    "en": "A layered façade of terraces and slender balconies, with cypress along the roofline and warm light tucked into every floor edge.",
+    "fa": "نمایی لایه‌لایه از تراس‌ها و بالکن‌های باریک، با سروهای لبه‌ی بام و نوری گرم در لبه‌ی هر طبقه."
+   },
+   "images": [
+    {
+     "src": "77dde858fa66182dfd96426eeea4a073",
+     "sketch": "28f0c1667d4ac19948a085cca60a55ed",
+     "portrait": true
+    },
+    {
+     "src": "381441c85b511c26227f58566463ddee",
+     "sketch": "3ec85a133f9f1167fc4b4de61959c92d",
+     "portrait": true
+    }
+   ]
+  },
+  {
+   "id": "executive-office",
+   "no": "A-04",
+   "title": {
+    "en": "Executive Office",
+    "fa": "دفتر مدیریت"
+   },
+   "type": {
+    "en": "Interior",
+    "fa": "فضای داخلی"
+   },
+   "note": {
+    "en": "Black timber, glass partitions and a garden courtyard, with yellow floor lines marking the way through.",
+    "fa": "چوب سیاه، پارتیشن‌های شیشه‌ای و حیاطی سبز؛ خطوط زرد کف مسیر حرکت را نشان می‌دهند."
+   },
+   "images": [
+    {
+     "src": "9ce72fc4c89b49f42e8083c861cd6fec",
+     "sketch": "556fe3abd3a271e7b8491e301f4c836b",
+     "portrait": false
+    },
+    {
+     "src": "9ad227f8949afe85a53245d14c833377",
+     "sketch": "be945d5f716c34219f8c9aaf6a206961",
+     "portrait": false
+    },
+    {
+     "src": "2df29eb258cc66b41694d5e1b61c5840",
+     "sketch": "7170b42a534100d144dd936fb226cb57",
+     "portrait": false
+    },
+    {
+     "src": "886b39262ce0699966fbf82d8e2112bd",
+     "sketch": "94b982dea82ab663e77d8027cf60eaeb",
+     "portrait": false
+    }
+   ]
+  },
+  {
+   "id": "crimson-restaurant",
+   "no": "A-05",
+   "title": {
+    "en": "Crimson Restaurant",
+    "fa": "رستوران سرخ"
+   },
+   "type": {
+    "en": "Hospitality",
+    "fa": "رستوران"
+   },
+   "note": {
+    "en": "A rippling red fin wall wraps the counter, with rings of light hanging above it.",
+    "fa": "دیواره‌ای موج‌دار از پره‌های قرمز پیشخوان را در بر می‌گیرد و حلقه‌های نور بالای آن آویزان است."
+   },
+   "images": [
+    {
+     "src": "41bc3184d6ca3938a7857a9f62c81b49",
+     "sketch": "002271297914c7efa395e8a2f3ed0bea",
+     "portrait": false
+    },
+    {
+     "src": "e8d68c3ccd5c63d1ee644a695fda663e",
+     "sketch": "11f44dd04cb6a21774a68d48c5c1bf18",
+     "portrait": true
+    }
+   ]
+  },
+  {
+   "id": "sefideh",
+   "no": "A-06",
+   "title": {
+    "en": "Sefideh",
+    "fa": "سفیده"
+   },
+   "type": {
+    "en": "Hospitality",
+    "fa": "رستوران"
+   },
+   "note": {
+    "en": "Bronze stools, timber columns and planting beneath concentric rings of light.",
+    "fa": "صندلی‌های برنزی، ستون‌های چوبی و گیاهان زیر حلقه‌های هم‌مرکز نور."
+   },
+   "images": [
+    {
+     "src": "705ca7440037c5f1559e9c3a03157de1",
+     "sketch": "2f6afc802da6b4ff9c24acf9f609bb4f",
+     "portrait": true
+    },
+    {
+     "src": "1a2735ad2d4901d627e256ee9adcb77d",
+     "sketch": "52113d0e5d909252e8becd5b6832aa15",
+     "portrait": true
+    }
+   ]
+  },
+  {
+   "id": "prayer-room",
+   "no": "A-07",
+   "title": {
+    "en": "Prayer Room",
+    "fa": "نمازخانه"
+   },
+   "type": {
+    "en": "Sacred interior",
+    "fa": "فضای داخلی مذهبی"
+   },
+   "note": {
+    "en": "Pointed arches, tilework and a halo of light, shaped for quiet.",
+    "fa": "طاق‌های جناغی، کاشی‌کاری و هاله‌ای از نور، برای سکوت ساخته شده."
+   },
+   "images": [
+    {
+     "src": "59be148dca71adf24f666de29e95a3e4",
+     "sketch": "4b60f9ac6e836e59d20e7a3b1acd3a62",
+     "portrait": true
+    },
+    {
+     "src": "35ebff25521fa703dac947f1ffe220db",
+     "sketch": "b73c46a6ae3b7b289ba5a70dc1a1d5f9",
+     "portrait": true
+    }
+   ]
+  },
+  {
+   "id": "residences",
+   "no": "A-08",
+   "title": {
+    "en": "Residences",
+    "fa": "منازل مسکونی"
+   },
+   "type": {
+    "en": "Interior",
+    "fa": "فضای داخلی"
+   },
+   "note": {
+    "en": "Warm neutral palettes, curved ceilings and concealed light, from living rooms to dressing rooms.",
+    "fa": "پالت‌های خنثی و گرم، سقف‌های منحنی و نور پنهان، از اتاق نشیمن تا اتاق لباس."
+   },
+   "images": [
+    {
+     "src": "9ac1c1adf66f4d2a1a3eba9ba5721e94",
+     "sketch": "e0d3ba644bc243a4e48a2e3ba86bda3f",
+     "portrait": false
+    },
+    {
+     "src": "a06dd89dcb01267e896877d14b653f0d",
+     "sketch": "0ffa2e54dbbc40e9f3ac331609167c80",
+     "portrait": false
+    },
+    {
+     "src": "5098a3badd64df8d0b5fff8056199b14",
+     "sketch": "66fed4e009a5e6be37666ad74c658e87",
+     "portrait": false
+    },
+    {
+     "src": "800611725657b7d86af55b44d301202e",
+     "sketch": "5929e19c189795cb5ef2c971d1f2f44d",
+     "portrait": true
+    },
+    {
+     "src": "9bb1addd35b35571b5297751e96c54d7",
+     "sketch": "f8ee22e1a4139b75dde3edbb23fad11a",
+     "portrait": false
+    },
+    {
+     "src": "29693716c524fd384169bff9401a4e61",
+     "sketch": "14568d86087ff923439ba28386320884",
+     "portrait": false
+    },
+    {
+     "src": "12ac41a7869680e4c8ce55d5a2122da6",
+     "sketch": "a0694630802f4660eed5f38b131686fd",
+     "portrait": false
+    }
+   ]
+  },
+  {
+   "id": "villa",
+   "no": "A-09",
+   "title": {
+    "en": "Villa",
+    "fa": "ویلا"
+   },
+   "type": {
+    "en": "Residential",
+    "fa": "مسکونی"
+   },
+   "note": {
+    "en": "A two-storey villa wrapped in planted terraces, shown by day and at dusk, with a cabin and pool retreat from above.",
+    "fa": "ویلایی دوطبقه که تراس‌های سبز آن را در بر گرفته، در روز و غروب، به‌همراه کلبه و استخر از نمای هوایی."
+   },
+   "images": [
+    {
+     "src": "9a399ecc175fddb616896b67acf836a3",
+     "sketch": "14fbef1f19ab68ea0c20f2022e70bc64",
+     "portrait": false
+    },
+    {
+     "src": "37f4e5a65086107079768d20b52d71c5",
+     "sketch": "a327c3de9844a1167b2a738662996f03",
+     "portrait": false
+    },
+    {
+     "src": "31937475609fc882790fd81ce478c8c5",
+     "sketch": "dd47678e03313279918a0d0d3655f69b",
+     "portrait": false
+    }
+   ]
+  },
+  {
+   "id": "lobby",
+   "no": "A-10",
+   "title": {
+    "en": "Lobby",
+    "fa": "لابی"
+   },
+   "type": {
+    "en": "Interior",
+    "fa": "فضای داخلی"
+   },
+   "note": {
+    "en": "Timber panelling, geometric lattice and a standing figure ringed in light.",
+    "fa": "پوشش چوبی، شبکه‌ی هندسی و مجسمه‌ای ایستاده که حلقه‌ای از نور آن را دربرگرفته."
+   },
+   "images": [
+    {
+     "src": "b369fda5b333d0e458b6ed3ce8ffc333",
+     "sketch": "3323e8884be6157967d5f7337845c7ec",
+     "portrait": true
+    },
+    {
+     "src": "528980e201bf73182b9fe753458bfe61",
+     "sketch": "94804571a88f5c4879846b77cc2aec6e",
+     "portrait": true
+    }
+   ]
+  }
+ ],
+ "services": [
+  {
+   "title": {
+    "en": "Architectural design",
+    "fa": "طراحی معماری"
+   },
+   "text": {
+    "en": "Concept development and schematic design for residential, commercial and urban projects.",
+    "fa": "ایده‌پردازی و طراحی شماتیک برای پروژه‌های مسکونی، تجاری و شهری."
+   }
+  },
+  {
+   "title": {
+    "en": "Interior & space planning",
+    "fa": "طراحی داخلی و برنامه‌ریزی فضا"
+   },
+   "text": {
+    "en": "Interior concepts, material and finish selection, FF&E specification.",
+    "fa": "کانسپت داخلی، انتخاب متریال و پوشش‌ها، مشخصات مبلمان و تجهیزات (FF&E)."
+   }
+  },
+  {
+   "title": {
+    "en": "Façades",
+    "fa": "نما"
+   },
+   "text": {
+    "en": "Competition-winning façades, plus published research on double-skin façades and thermal comfort.",
+    "fa": "نماهای برنده‌ی مسابقه و پژوهش منتشرشده درباره‌ی نمای دوپوسته و آسایش حرارتی."
+   }
+  },
+  {
+   "title": {
+    "en": "3D & storytelling",
+    "fa": "سه‌بعدی و روایت طرح"
+   },
+   "text": {
+    "en": "Modelling and rendering in 3ds Max, SketchUp, Corona, V-Ray and Lumion, plus client presentations that tell the design as a story.",
+    "fa": "مدل‌سازی و رندر با 3ds Max، SketchUp، Corona، V-Ray و Lumion، و ارائه‌هایی که طرح را به‌صورت روایت بازگو می‌کنند."
+   }
+  },
+  {
+   "title": {
+    "en": "Technical drawings",
+    "fa": "نقشه‌های فنی"
+   },
+   "text": {
+    "en": "Detail and execution documents in AutoCAD, prepared for the people who will build them.",
+    "fa": "نقشه‌های جزئیات و اجرایی در AutoCAD، آماده برای کسانی که قرار است آن‌ها را بسازند."
+   }
+  },
+  {
+   "title": {
+    "en": "Site & project management",
+    "fa": "مدیریت پروژه و کارگاه"
+   },
+   "text": {
+    "en": "Site supervision on residential blocks of up to 20 units, aligning execution quality and timelines with the design.",
+    "fa": "نظارت بر کارگاه‌های مسکونی تا ۲۰ واحد و هماهنگی کیفیت اجرا و زمان‌بندی با طرح."
+   }
+  }
+ ],
+ "awards": [
+  {
+   "year": 2025,
+   "title": {
+    "en": "Interior Design Competition, Nastaran Project",
+    "fa": "مسابقه‌ی طراحی داخلی، پروژه‌ی نستران"
+   },
+   "by": {
+    "en": "Organized by Marlik Niroo Company",
+    "fa": "برگزارکننده: شرکت مارلیک نیرو"
+   }
+  },
+  {
+   "year": 2025,
+   "title": {
+    "en": "Façade Design Competition, Nastaran Project",
+    "fa": "مسابقه‌ی طراحی نما، پروژه‌ی نستران"
+   },
+   "by": {
+    "en": "Organized by Marlik Niroo Company",
+    "fa": "برگزارکننده: شرکت مارلیک نیرو"
+   }
+  },
+  {
+   "year": 2022,
+   "title": {
+    "en": "Modern Villa Design Competition",
+    "fa": "مسابقه‌ی طراحی ویلای مدرن"
+   },
+   "by": {
+    "en": "Organized by Sharestan Company",
+    "fa": "برگزارکننده: شرکت شارستان"
+   }
+  },
+  {
+   "year": 2020,
+   "title": {
+    "en": "Architectural plan for a 500 m² plot",
+    "fa": "طرح معماری یک زمین ۵۰۰ مترمربعی"
+   },
+   "by": {
+    "en": "Reza Boulevard, Mashhad",
+    "fa": "بلوار رضا، مشهد"
+   }
+  },
+  {
+   "year": 2019,
+   "title": {
+    "en": "Neighborhood Park Design Competition",
+    "fa": "مسابقه‌ی طراحی پارک محلی"
+   },
+   "by": {
+    "en": "Organized by the Municipality",
+    "fa": "برگزارکننده: شهرداری"
+   }
+  }
+ ],
+ "research": {
+  "year": 2023,
+  "title": {
+   "en": "Evaluation of Double-Skin Façade Use to Improve Environmental and Thermal Comfort in Eco-tourism Complexes",
+   "fa": "ارزیابی کاربرد نمای دوپوسته برای بهبود آسایش محیطی و حرارتی در مجتمع‌های اکوتوریسم"
+  },
+  "cite": {
+   "en": "Mirzaei, R. & Adlimoghadam, N. Case study: Haft Hoz, Mashhad. Proceedings of the 5th International & 6th National Conference on Civil Engineering, Architecture, Art and Urban Design.",
+   "fa": "میرزایی، ر. و عدلی‌مقدم، ن. مطالعه‌ی موردی: هفت‌حوض، مشهد. مجموعه مقالات پنجمین کنفرانس بین‌المللی و ششمین کنفرانس ملی عمران، معماری، هنر و طراحی شهری."
+  }
+ },
+ "education": [
+  {
+   "from": 2019,
+   "to": 2022,
+   "title": {
+    "en": "Master's, Architecture",
+    "fa": "کارشناسی ارشد معماری"
+   },
+   "org": {
+    "en": "Khorasan Non-Profit University, Mashhad",
+    "fa": "دانشگاه غیرانتفاعی خراسان، مشهد"
+   }
+  },
+  {
+   "from": 2015,
+   "to": 2019,
+   "title": {
+    "en": "Bachelor's, Architecture",
+    "fa": "کارشناسی معماری"
+   },
+   "org": {
+    "en": "Islamic Azad University, Tehran",
+    "fa": "دانشگاه آزاد اسلامی، تهران"
+   }
+  }
+ ],
+ "experience": [
+  {
+   "from": 2025,
+   "to": null,
+   "org": {
+    "en": "Elfi Group",
+    "fa": "گروه الفی"
+   },
+   "role": {
+    "en": "Design Studio Manager",
+    "fa": "مدیر استودیوی طراحی"
+   },
+   "note": {
+    "en": "Leading the design team, coordinating concepts and 3D visualization, and supervising technical and executive documentation.",
+    "fa": "هدایت تیم طراحی، هماهنگی ایده‌ها و تجسم سه‌بعدی و نظارت بر مستندات فنی و اجرایی."
+   }
+  },
+  {
+   "from": 2025,
+   "to": 2026,
+   "org": {
+    "en": "Ati Shahr Shargh Consulting Engineers",
+    "fa": "مهندسان مشاور آتی‌شهر شرق"
+   },
+   "role": {
+    "en": "Architectural Designer",
+    "fa": "طراح معماری"
+   },
+   "note": {
+    "en": "Overseeing project development and coordinating design concepts and 3D visualization.",
+    "fa": "نظارت بر توسعه‌ی پروژه و هماهنگی ایده‌های طراحی و تجسم سه‌بعدی."
+   }
+  },
+  {
+   "from": 2023,
+   "to": null,
+   "org": {
+    "en": "TheNO Studio",
+    "fa": "استودیو TheNO"
+   },
+   "role": {
+    "en": "Architectural Designer",
+    "fa": "طراح معماری"
+   },
+   "note": {
+    "en": "Design concepts, 3D models and technical documentation.",
+    "fa": "کانسپت طراحی، مدل‌های سه‌بعدی و مستندات فنی."
+   }
+  },
+  {
+   "from": 2023,
+   "to": 2025,
+   "org": {
+    "en": "Aarraye Razavi Company",
+    "fa": "شرکت آرایه رضوی"
+   },
+   "role": {
+    "en": "Design Team Member",
+    "fa": "عضو تیم طراحی"
+   },
+   "note": {
+    "en": "Conceptual and executive design for residential and urban projects.",
+    "fa": "طراحی مفهومی و اجرایی پروژه‌های مسکونی و شهری."
+   }
+  },
+  {
+   "from": 2022,
+   "to": 2025,
+   "org": {
+    "en": "Sharestan Architecture Group",
+    "fa": "گروه معماری شارستان"
+   },
+   "role": {
+    "en": "Designer & Site Supervisor",
+    "fa": "طراح و ناظر کارگاه"
+   },
+   "note": {
+    "en": "Moon Café Felestin and Dile Lounge Café (design and execution); Bozorgmehr 12, six units (design and supervision); Hashemieh 4, twelve units (design).",
+    "fa": "کافه مون فلسطین و کافه لانج دیله (طراحی و اجرا)؛ بزرگمهر ۱۲، شش واحد (طراحی و نظارت)؛ هاشمیه ۴، دوازده واحد (طراحی)."
+   }
+  },
+  {
+   "from": 2021,
+   "to": 2022,
+   "org": {
+    "en": "Karno Architecture Studio",
+    "fa": "استودیو معماری کارنو"
+   },
+   "role": {
+    "en": "Architectural Designer",
+    "fa": "طراح معماری"
+   },
+   "note": {
+    "en": "Concepts, 3D models and executive documentation.",
+    "fa": "کانسپت‌ها، مدل‌های سه‌بعدی و مستندات اجرایی."
+   }
+  },
+  {
+   "from": 2020,
+   "to": 2021,
+   "org": {
+    "en": "Ebadi Residential Project",
+    "fa": "پروژه‌ی مسکونی عبادی"
+   },
+   "role": {
+    "en": "Site Supervisor",
+    "fa": "ناظر کارگاه"
+   },
+   "note": {
+    "en": "Mashhad. Monitoring execution quality and progress against the design.",
+    "fa": "مشهد. پایش کیفیت اجرا و پیشرفت کار نسبت به طرح."
+   }
+  },
+  {
+   "from": 2019,
+   "to": null,
+   "org": {
+    "en": "Nodeed Architecture Firm",
+    "fa": "دفتر معماری نودید"
+   },
+   "role": {
+    "en": "Architectural Designer",
+    "fa": "طراح معماری"
+   },
+   "note": {
+    "en": "Design concepts, interiors, detail development and presentations.",
+    "fa": "کانسپت طراحی، فضای داخلی، توسعه‌ی جزئیات و ارائه‌ی پروژه."
+   }
+  },
+  {
+   "from": 2018,
+   "to": 2020,
+   "org": {
+    "en": "Falahi Residential Project",
+    "fa": "پروژه‌ی مسکونی فلاحی"
+   },
+   "role": {
+    "en": "Site Supervisor",
+    "fa": "ناظر کارگاه"
+   },
+   "note": {
+    "en": "A 20-unit residential project in Mashhad.",
+    "fa": "پروژه‌ی مسکونی ۲۰ واحدی در مشهد."
+   }
+  },
+  {
+   "from": 2017,
+   "to": null,
+   "org": {
+    "en": "Independent practice",
+    "fa": "فعالیت مستقل"
+   },
+   "role": {
+    "en": "Freelance Architect",
+    "fa": "معمار آزاد"
+   },
+   "note": {
+    "en": "Residential interiors, façades and small-scale commercial spaces.",
+    "fa": "فضاهای داخلی مسکونی، نما و فضاهای تجاری کوچک‌مقیاس."
+   }
+  }
+ ],
+ "skills": [
+  {
+   "name": "3ds Max",
+   "value": 80
+  },
+  {
+   "name": "SketchUp",
+   "value": 90
+  },
+  {
+   "name": "AutoCAD",
+   "value": 90
+  },
+  {
+   "name": "Corona",
+   "value": 90
+  },
+  {
+   "name": "Lumion",
+   "value": 75
+  },
+  {
+   "name": "V-Ray",
+   "value": 50
+  },
+  {
+   "name": "Photoshop",
+   "value": 75
+  },
+  {
+   "name": "Office",
+   "value": 70
+  }
+ ],
+ "languages": [
+  {
+   "name": {
+    "en": "Persian",
+    "fa": "فارسی"
+   },
+   "level": {
+    "en": "Native",
+    "fa": "زبان مادری"
+   }
+  },
+  {
+   "name": {
+    "en": "English",
+    "fa": "انگلیسی"
+   },
+   "level": {
+    "en": "Intermediate",
+    "fa": "متوسط"
+   }
+  },
+  {
+   "name": {
+    "en": "German",
+    "fa": "آلمانی"
+   },
+   "level": {
+    "en": "Intermediate",
+    "fa": "متوسط"
+   }
+  },
+  {
+   "name": {
+    "en": "Spanish",
+    "fa": "اسپانیایی"
+   },
+   "level": {
+    "en": "Basic",
+    "fa": "مقدماتی"
+   }
+  }
+ ],
+ "contact": {
+  "projectTypes": [
+   {
+    "en": "Façade",
+    "fa": "نما"
+   },
+   {
+    "en": "Interior",
+    "fa": "فضای داخلی"
+   },
+   {
+    "en": "Villa / residence",
+    "fa": "ویلا / منزل مسکونی"
+   },
+   {
+    "en": "Café / restaurant",
+    "fa": "کافه / رستوران"
+   },
+   {
+    "en": "Something else",
+    "fa": "موضوع دیگر"
+   }
+  ],
+  "email": "nimamgdm@gmail.com",
+  "phone": "+989151256471",
+  "phoneText": "+98 915 125 6471",
+  "instagram": "nimamoqadam",
+  "address": {
+   "en": "Farhang Blvd, Mashhad, Iran",
+   "fa": "بلوار فرهنگ، مشهد، ایران"
+  }
+ }
+}

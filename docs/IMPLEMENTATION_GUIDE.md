@@ -118,7 +118,7 @@ Left nav: Dashboard, Site & SEO, Page sections (drag to reorder, show/hide), Tex
 | Phase | Scope | Done when |
 |---|---|---|
 | 0 — Foundation ✅ | Solution/workspace scaffolds, data model + migration, JWT login, SSR shell, SEO service, fonts/logo, README, tests | Everything builds, tests pass |
-| 1 — Content core | Seeder from `content.json` + CV; public content/site/cv/projects endpoints; admin CRUD for texts, site settings, sections | Public hero/about/contact render from DB; texts editable |
+| 1 — Content core ✅ | Seeder from `content.json` + CV; public content/site/cv/projects endpoints; admin CRUD for texts, site settings, sections | Public hero/about/contact render from DB; texts editable |
 | 2 — Media | Upload pipeline, variants, media library UI, image pickers everywhere | All site images replaceable from admin |
 | 3 — Public site build-out | All sections, EN/FA + RTL, gallery + render↔sketch slider, contact form → `ContactMessages` | Visual parity with reference design |
 | 4 — Projects & CV editors | Project/image editors with reorder, CV lists, messages inbox | No hard-coded content left |
